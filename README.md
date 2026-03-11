@@ -1,4 +1,4 @@
-# Windows 10+ Folder Generator
+# Windows 10/11+ Folder Generator
 
 **Why pay for folder management software when you can automate your workflow for free?**
 
