@@ -14,6 +14,9 @@ Because this is a transparent PowerShell script, it is as safe as software gets.
 * **Flexible Naming:** Support for Numerical, Prefix, and Suffix batching.
 * **Ready for Workflow:** The launcher can be pinned to your Taskbar for instant access.
 
+<img width="1045" height="1139" alt="Screenshot 2026-03-11 192215 - Kopie" src="https://github.com/user-attachments/assets/001da63c-0bad-4afc-b071-815079cbaa96" />
+<img width="1045" height="1139" alt="Screenshot 2026-03-11 192215 - Kopie" src="https://github.com/user-attachments/assets/001da63c-0bad-4afc-b071-815079cbaa96" />
+
 ### Installation
 1. Download `Install_FolderGenerator.bat` from this repository.
 2. Double-click `Install_FolderGenerator.bat` to begin the automated setup.
