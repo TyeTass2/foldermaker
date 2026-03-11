@@ -5,8 +5,6 @@ pause
 exit /b
 #>
 
-# --- EVERYTHING BELOW THIS LINE IS YOUR ORIGINAL POWERSHELL CODE ---
-
 <#
 .SYNOPSIS
     All-In-One Installer for Project Folder Generator
@@ -179,4 +177,5 @@ Create-Link (Join-Path $configDir "Launcher.lnk")
 Write-Host "[4/4] Created Config Launcher."
 
 Write-Host "`nDONE! You can now delete this installer file." -ForegroundColor Green
+
 Write-Host "Use the 'Project Folder Generator' icon on your Desktop."
